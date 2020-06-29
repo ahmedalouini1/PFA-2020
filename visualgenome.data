@@ -1,0 +1,4 @@
+classes=100
+train=data/visualgenome_train.txt
+valid=data/visualgenome_test.txt
+names=data/visualgenome.names
